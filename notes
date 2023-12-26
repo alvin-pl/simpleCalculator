@@ -1,0 +1,5 @@
+use system interpreter
+
+Pycharm/settings/Project: "project name"/Python interpreter/show all/ add(+)/ choose system interpreter
+
+this allows you to use tkinter that is installed on your local computer
